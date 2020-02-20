@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Usuario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nome>Francisco Rafael Pereira</Nome>
+  <CPF>068.778.653-32</CPF>
+  <Email>francisco_rafael@hotmail.com.br</Email>
+</Usuario>
